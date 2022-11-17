@@ -2,7 +2,7 @@
     map.component.ts - map visualization in OGITO
     ---------------------
     begin                : Oct 2020
-    copyright            : (C) 2022 by Rosa Aguilar
+    copyright            : (C) 2020 by Rosa Aguilar
     email                :  rosamaguilar at gmail dot com / r.aguilar at utwente dot nl
  ***************************************************************************
  *                                                                         *
