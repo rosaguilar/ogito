@@ -1,5 +1,5 @@
 /***************************************************************************
-    map.component.ts - Organization Explosed Dialog in OGITO
+    dialog-org-exposed.ts - Organization Explosed Dialog in OGITO
     ---------------------
     begin                : Oct 2020
     copyright            : (C) 2020 by Rosa Aguilar
