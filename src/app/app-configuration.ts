@@ -14,7 +14,7 @@
  ***************************************************************************/
 
 export class AppConfiguration{
-  static hostname = 'https://ogito.itc.utwente.nl/';
+  static hostname = '';
   static wmsVersion  = '1.3.0' ;
   static wfsVersion = '1.1.0';
   static wmtsVersion = '1.0.0';
